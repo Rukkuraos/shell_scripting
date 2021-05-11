@@ -1,2 +1,2 @@
-printf Rukmendhar
+printf Rukmendhar\n
 echo Rao Ileni
